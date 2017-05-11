@@ -8,29 +8,30 @@
 .. template: index_page.tmpl
 
 
-# Aktuell: BattleMesh V10 in Wien!
+!!! initiative "Aktuell: BattleMesh V10 in Wien!"
+    <img src="images/riesenrad_steffl_tower.png" class="pull-right" title="WBMv10" />
+    Vom 5. bis 11. Juni 2017 findet das [BattleMesh](http://battlemesh.org/BattleMeshV10),
+    das größte Community-Treffen von Mesh-Begeisterten, im
+    [Volkskundemuseum Wien](http://volkskundemuseum.at/) statt.
 
-Vom 5. bis 11. Juni 2017 findet das [BattleMesh](http://battlemesh.org/BattleMeshV10),
-das größte Community-Treffen von Mesh-Begeisterten, im
-[Volkskundemuseum Wien](http://volkskundemuseum.at/) statt.
-Beim BattleMesh diskutieren wir Technik, Politik und gesellschaftliche
-Wirkung von gemeinschaftlich organisierten und betriebenen Funknetzwerken.
-Es treffen rund 100 Forscher_innen, Open-Source-Programmierer_innen,
-Betreiber_innen von freien WLAN-Netzen (wie z.B.
-[Freifunk Berlin](https://berlin.freifunk.net/),
-[Guifi.Net Katalonien](https://guifi.net/)
-und [Network Bogotá](https://networkbogota.org/network-bogota-endorses-the-wireless-battle-of-the-mesh-v10/))
-und Netzaktivist_innen zusammen, um gemeinsam an den neuesten
-Entwicklungen zu arbeiten.
+    Beim BattleMesh diskutieren wir Technik, Politik und gesellschaftliche
+    Wirkung von gemeinschaftlich organisierten und betriebenen Funknetzwerken.
+    Es treffen rund 100 Forscher_innen, Open-Source-Programmierer_innen,
+    Betreiber_innen von freien WLAN-Netzen (wie z.B.
+    [Freifunk Berlin](https://berlin.freifunk.net/),
+    [Guifi.Net Katalonien](https://guifi.net/)
+    und [Network Bogotá](https://networkbogota.org/network-bogota-endorses-the-wireless-battle-of-the-mesh-v10/))
+    und Netzaktivist_innen zusammen, um gemeinsam an den neuesten
+    Entwicklungen zu arbeiten.
 
-Die Veranstaltung wird von Funkfeuer Wien mitorganisiert
-und ist **offen und gratis zugänglich für alle**!
-Funkfeuer Wien unterstützt den Gedanken des Austausches
-und der Kooperation zwischen den Communitys, den
-BattleMesh verkörpert. Wir freuen uns auf eine von unseren
-gemeinsamen Interessen und Zielen getragene Veranstaltung!
+    Die Veranstaltung wird von Funkfeuer Wien mitorganisiert
+    und ist **offen und gratis zugänglich für alle**!
+    Funkfeuer Wien unterstützt den Gedanken des Austausches
+    und der Kooperation zwischen den Communitys, den
+    BattleMesh verkörpert. Wir freuen uns auf eine von unseren
+    gemeinsamen Interessen und Zielen getragene Veranstaltung!
 
-[Komm auch Du!](http://battlemesh.org/BattleMeshV10#When)
+    [Komm auch Du!](http://battlemesh.org/BattleMeshV10#When)
 
 
 # Was ist Funkfeuer?
